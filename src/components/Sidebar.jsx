@@ -18,7 +18,7 @@ export function Sidebar() {
           alt=''
         />
 
-        <strong>Diego Fernandes</strong>
+        <strong>Artur Bernardo</strong>
         <span>Web Developer</span>
       </div>
 
